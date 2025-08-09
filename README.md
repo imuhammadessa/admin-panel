@@ -1,4 +1,4 @@
-# 🚀 Induction Program Web App
+# 🚀 Admin-panel
 
 A full-stack web application built with **React** (frontend), **Node.js / Express** (backend), and **MySQL** (database).  
 It includes user authentication, registration, and image fetching from Unsplash.
@@ -113,5 +113,6 @@ This project is licensed under the MIT License.
 
 ✨ Author
 Muhammad – Senior Frontend Engineer
+
 
 
