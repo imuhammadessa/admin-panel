@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.Toastify__close-button {
+  color: #fff !important;
+  opacity: 1 !important; /* ensures full white */
+}
+
+.Toastify__close-button:hover {
+  color: #e2e8f0 !important; /* lighter shade on hover */
+}
