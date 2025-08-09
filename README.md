@@ -35,32 +35,6 @@ It includes user authentication, registration, and image fetching from Unsplash.
 
 ---
 
-## 📂 Project Structure
-
-project/
-│
-├── server/ # Express server & APIs
-│ ├── routes/ # API route files
-│ ├── controllers/ # Route controllers
-│ ├── models/ # Database models
-│ ├── config/ # DB & env configuration
-│ └── server.js # App entry point
-│
-├── client/ # React app
-│ ├── src/
-│ │ ├── auth/ # Login & Register pages
-│ │ ├── views/ # Main pages
-│ │ ├── utils/ # Toast config, helpers
-│ │ ├── assets/ # Images & static files
-│ │ └── App.js
-│ └── package.json
-│
-├── .gitignore
-├── README.md
-└── package.json
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -113,6 +87,7 @@ This project is licensed under the MIT License.
 
 ✨ Author
 Muhammad – Senior Frontend Engineer
+
 
 
 
