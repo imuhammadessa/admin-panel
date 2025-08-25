@@ -40,11 +40,13 @@ It includes user authentication, registration, and image fetching from Unsplash.
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/imuhammadessa/admin-panel.git
-cd induction-program
+cd admin-panel
 
 2️⃣ Backend setup
 cd server
 npm install
+npm run dev
+
 
 ### Create a .env file inside backend/:
 PORT=3000
@@ -55,10 +57,10 @@ DB_NAME=Database_name
 JWT_SECRET=your_secret_key
 
 ###  Run backend:
-npm start
+npm run dev
 
 3️⃣ Frontend setup
-cd ../client
+cd client
 npm install
 
 ###  Insert UNSPLASH_ACCESS_KEY inside client/register /:
@@ -87,6 +89,7 @@ This project is licensed under the MIT License.
 
 ✨ Author
 Muhammad – Senior Frontend Engineer
+
 
 
 
